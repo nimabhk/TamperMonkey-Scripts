@@ -69,5 +69,6 @@ Install TamperMonkey extension on your browser, then click the `.user.js` file a
 ## اطلاعات فنی / Technical Info
 
 - **نسخه / Version**: 0.5
-- **نویسنده / Author**: NimaBhk
+- **نویسنده / Author**: Nima Behkar
+- **گیت‌هاب / GitHub**: nimabhk
 - **دسته‌بندی / Category**: UI/UX

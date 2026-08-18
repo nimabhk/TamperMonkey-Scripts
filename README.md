@@ -2,6 +2,8 @@
 
 A collection of ready-to-install Tampermonkey user scripts organized by category.
 
+**Author**: Nima Behkar ([nimabhk](https://github.com/nimabhk))
+
 ## Categories 📁
 
 - [Social Media](categories/social-media/) - Scripts for social media platforms
@@ -37,6 +39,8 @@ Each script comes with a corresponding `.md` file that explains:
 # سطل اسکریپت‌های تمپرمانکی 📦
 
 مجموعه‌ای از اسکریپت‌های آماده نصب تمپرمانکی که بر اساس دسته‌بندی سازماندهی شده‌اند.
+
+**نویسنده**: نیما بهکار ([nimabhk](https://github.com/nimabhk))
 
 ## دسته‌بندی‌ها 📁
 
