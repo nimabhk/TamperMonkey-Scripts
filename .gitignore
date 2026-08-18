@@ -1,0 +1,36 @@
+```
+# User script and UI/UX related files
+*.user.js
+*.user.css
+
+# General temp files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+*.env.*
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependencies (if any get added later)
+node_modules/
+vendor/
+
+# Build artifacts (if any get added later)
+dist/
+build/
+target/
+```
